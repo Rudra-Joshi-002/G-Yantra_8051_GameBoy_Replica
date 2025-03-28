@@ -1,7 +1,7 @@
 # G-Yantra Project: 8051 Game Boy Replica
 
 ## 📌 Project Overview
-The **G-Yantra Project** is an innovative attempt to replicate the retro gaming experience of Nintendo's Gameboy using an **8051 microcontroller**. Developed as part of the G-Yantra Competition, this project focuses on hardware interfacing, game development, and delivering smooth gameplay on an 8-bit system.
+The **G-Yantra Project** is an innovative attempt to replicate the retro gaming experience of Nintendo's Gameboy using an **8051 microcontroller**. Developed as part of Academic Pursuits of Understanding Embedded Systems, this project focuses on hardware interfacing, game development, and delivering smooth gameplay on an 8-bit system.
 
 ## 🛠 Key Features
 - **128x64 GLCD Display:** Provides the graphical interface for gameplay.
